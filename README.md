@@ -1,7 +1,7 @@
 # Gesture-Recognition-CaseStudy-IITB
 
 
-Developed by:
+Contributors :
 1. [Ravi Ramchandran](https://github.com/rramchan12)
 2. [Sreejith](https://github.com/srejith)
 

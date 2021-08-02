@@ -36,3 +36,7 @@ The training data consists of a few hundred videos categorised into one of the f
 ![dataset](https://user-images.githubusercontent.com/29462447/86066087-d03cf680-ba8e-11ea-91f5-960b5f522a39.png)
 
 ### Results:
+![Explainer doc](https://github.com/rramchan12/Gesture-Recognition-CaseStudy-IITB/blob/main/Exp_Writeup.docx)
+
+We have chosen the LSTM-CNN model as the best one for the purpose of this case study
+
